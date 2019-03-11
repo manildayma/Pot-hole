@@ -37,3 +37,7 @@ are easier to see than that of 2-D models.
 
 1. Download the _hack3.apk_ and allow camera permissions.
 1. See target images via the amera opened my the app and experince the augmented objects.
+
+-----
+
+[Link For Demo Video Of The Real Life Working Of App](https://drive.google.com/open?id=1DYw5Hon6grL-i6VhkTP0aW1JxGPPehuL)
