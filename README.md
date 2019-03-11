@@ -46,4 +46,4 @@ are easier to see than that of 2-D models.
 
 -----
 ### Link FOr Demo Video
-[Link For Demo Video Of The Real Life Working Of App](https://drive.google.com/open?id=1DYw5Hon6grL-i6VhkTP0aW1JxGPPehuL)
+[Demo Video Of The Real Life Working Of App](https://drive.google.com/open?id=1DYw5Hon6grL-i6VhkTP0aW1JxGPPehuL)
