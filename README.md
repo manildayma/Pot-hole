@@ -30,8 +30,14 @@ are easier to see than that of 2-D models.
 ### We are in the process of adding GPS functionality to the app itself.
 
 -----
+### Link For APK
 
-[Link For APK & Target Images](https://drive.google.com/drive/folders/1CIqnSIrC0jMfNYpXtvE8aIN9z06I0sIQ)
+[APK](https://drive.google.com/file/d/10mh1ejXodkXc9ZbEJf2Sp7LlvszXM57S/view?usp=sharing)
+
+-----
+### Link For Target Images
+
+[Target Images](https://drive.google.com/drive/folders/19pDXU4uIcvN9B1jOI1nAmpFAjkilVXAu?usp=sharing)
 
 -----
 
@@ -39,5 +45,5 @@ are easier to see than that of 2-D models.
 1. See target images via the amera opened my the app and experince the augmented objects.
 
 -----
-
+### Link FOr Demo Video
 [Link For Demo Video Of The Real Life Working Of App](https://drive.google.com/open?id=1DYw5Hon6grL-i6VhkTP0aW1JxGPPehuL)
