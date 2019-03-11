@@ -1,5 +1,5 @@
 # Drive Safe
-----------
+
 * Either your app generates data or it uses some data, in our case, for our app to function, 
 we need some data to operate on, we need data to train our model to work efficiently for Indian roads.
 
